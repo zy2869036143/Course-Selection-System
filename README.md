@@ -1,6 +1,6 @@
 # CourseSelectionSystem
 山东大学软件学院本科二年级web技术课程设计项目之一-----选课系统
-本项目采用前后端分离模式开发。前端使用vue3 + element-plus + echarts，后端使用spring boot + spring security + jpa + mysql。
+本项目采用前后端分离模式开发。前端使用vue3 + element-plus + echarts + axios，后端使用spring boot + spring security + jpa + mysql。
 # 如何运行本项目
 ## 步骤一
 拉取源码到您的本地
