@@ -1,0 +1,22 @@
+Spring Boot Service with Mysql to Login
+
+Reference:
+https://www.bezkoder.com/spring-boot-jwt-authentication/
+
+https://github.com/bezkoder/spring-boot-spring-security-jwt-authentication
+
+Dependency:
+mysql
+
+How to run local:
+mvn spring-boot:run
+
+Build jar
+mvn spring-boot:build-image
+
+
+insert into user_type ( name) values( 'ROLE_ADMIN');
+insert into user_type ( name) values( 'ROLE_USER');
+insert into user_type ( name) values( 'ROLE_TEACHER');
+insert into person (per_num, per_name,per_type) values( 'admin','admin','0');
+insert into user (user_name, password,person_id,user_type_id) values( 'admin','$2a$10$nPIfJST74k0r0Cvo6uNxT.KcKYqs6dtgibijf8kkndltr/Ldg..d2',1,1);
