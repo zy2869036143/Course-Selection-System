@@ -5,6 +5,8 @@
 此项目仅可当作学习内容，如若当作自己的项目原封抄袭上交，必严格纠责！
 # 课程得分
 Score: 97; Rank: Number One.
+![image](https://user-images.githubusercontent.com/85344622/154611161-746431a6-9cb9-42e5-be68-f3576acde444.png)
+
 # 如何运行本项目
 ## 步骤一
 拉取源码到您的本地
